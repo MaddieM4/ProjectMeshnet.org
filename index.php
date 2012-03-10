@@ -71,13 +71,13 @@
               <li class="dropdown">
               <a href="#" class="dropdown-toggle">Get Involved</a>
               <ul class="dropdown-menu">
-                <li><a href="#">Getting Started</a></li>
+                <li><a href="https://wiki.projectmeshnet.org/Getting_Started">Getting Started</a></li>
                  <li class="divider"></li>
                  <li><a href="#">MeshMaps</a></li>
                  <li><a href="#">MeshLocal</a></li>
 			              </ul>
                           </li>
-			<li><a href="#">Wiki</a></li>
+			<li><a href="https://wiki.projectmeshnet.org/">Wiki</a></li>
 			                         </ul>    <ul class="nav secondary-nav">
                   <a href="#" class="btn small primary"><h6a>Login</h6a></a> </ul>
         </div>
